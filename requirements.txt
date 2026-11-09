@@ -1,0 +1,3 @@
+# Needs no pip packages on the target machine. If you use a venv, make it
+# with --system-site-packages so it can see dbus-python and PyGObject.
+evdev==1.9.3

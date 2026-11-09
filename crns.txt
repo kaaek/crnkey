@@ -1,0 +1,2 @@
+# CRNs to register: one per line or space/comma separated, # starts a comment.
+# Add your real CRNs below before running crnkey; with none, it exits with an error.

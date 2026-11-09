@@ -28,7 +28,8 @@ system `dbus` and `gi` modules, then `pip install -r requirements.txt`.
 
 ## Set the CRNs
 
-Edit `crns.txt`: one per line or space/comma separated, `#` starts a comment.
+Edit `crns.txt` (it ships with comments only, so `crnkey` exits with an error
+until you add yours): one per line or space/comma separated, `#` starts a comment.
 
     # Fall registration
     12345

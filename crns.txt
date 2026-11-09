@@ -1,0 +1,4 @@
+# CRNs to register, one per line or space separated
+12345
+23456  # example
+34567 45678
